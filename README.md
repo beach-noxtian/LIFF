@@ -1,1 +1,1 @@
-# LINE - LIFF [1.0.1]
+# LINE - LIFF [1.0.2]

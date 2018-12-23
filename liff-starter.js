@@ -42,7 +42,7 @@ function getP(){
         document.getElementById('stickerx').addEventListener('click', function () {
             liff.sendMessages([{
                 type: 'text',
-                text: atob('V2l0aCBBbmltYXRpb246CmxpbmU6Ly9hcHAvMTYwMjY4NzMwOC1HWHE0VnZrOT90eXBlPXN0aWNrZXImc3RrPWFuaW0mc2lkPTMyMTI4MjMxJnBrZz0zMDk5MzEyCgpObyBBbmltYXRpb246CmxpbmU6Ly9hcHAvMTYwMjY4NzMwOC1HWHE0VnZrOT90eXBlPXN0aWNrZXImc3RrPW5vYW5pbSZzaWQ9MzIxMjgyMzEmcGtnPTMwOTkzMTIKCnR5cGUgPT4gc3RpY2tlcgpzdGsgPT4gYW5pbSAvIG5vYW5pbQpzaWQgPT4gc3RpY2tlciBpZApwa2cgPT4gcGFja2FnZXMgaWQ=')
+                text: atob('V2l0aCBBbmltYXRpb246CmxpbmU6Ly9hcHAvMTYyMjk5NDg1Ny1SVlZHNGxaP3R5cGU9c3RpY2tlciZzdGs9YW5pbSZzaWQ9MzIxMjgyMzEmcGtnPTMwOTkzMTIKCk5vIEFuaW1hdGlvbjoKbGluZTovL2FwcC8xNjIyOTk0ODU3LVJWVkc0bFo/dHlwZT1zdGlja2VyJnN0az1ub2FuaW0mc2lkPTMyMTI4MjMxJnBrZz0zMDk5MzEyCgp0eXBlID0+IHN0aWNrZXIKc3RrID0+IGFuaW0gLyBub2FuaW0Kc2lkID0+IHN0aWNrZXIgaWQKcGtnID0+IHBhY2thZ2VzIGlk')
             }]).then(function () {
                 liff.closeWindow();
             });
