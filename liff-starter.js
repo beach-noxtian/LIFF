@@ -22,7 +22,7 @@ function getP(){
 
                 type: 'text',
 
-                text: atob('bGluZTovL2FwcC8xNjAyNjg3MzA4LUdYcTRWdms5P3R5cGU9dGV4dCZ0ZXh0PVlvdXIlMjBUZXh0Cgp0eXBlID0+IHRleHQKdGV4dCA9PiB5b3VyIHRleHQ=')
+                text: atob('bGluZTovL2FwcC8xNjIyOTk0ODU3LVJWVkc0bFpnP3R5cGU9dGV4dCZ0ZXh0PVlvdXIlMjBUZXh0Cgp0eXBlID0+IHRleHQKdGV4dCA9PiB5b3VyIHRleHQ=')
 
             }]).then(function () {
 
@@ -38,7 +38,7 @@ function getP(){
 
                 type: 'text',
 
-                text: atob('bGluZTovL2FwcC8xNjAyNjg3MzA4LUdYcTRWdms5P3R5cGU9aW1hZ2UmaW1nPWh0dHBzOi8vd2FsbHBhcGVyc3R1ZGlvMTAuY29tL3N0YXRpYy93cGRiL3dhbGxwYXBlcnMvMTAwMHg1NjMvMTY4ODkxLmpwZwoKdHlwZSA9PiBpbWFnZQppbWcgPT4gTGluayAobXVzdCBiZSBIVFRQUyk=')
+                text: atob('bGluZTovL2FwcC8xNjIyOTk0ODU3LVJWVkc0bFpnP3R5cGU9aW1hZ2UmaW1nPWh0dHBzOi8vd2FsbHBhcGVyc3R1ZGlvMTAuY29tL3N0YXRpYy93cGRiL3dhbGxwYXBlcnMvMTAwMHg1NjMvMTY4ODkxLmpwZwoKdHlwZSA9PiBpbWFnZQppbWcgPT4gTGluayAobXVzdCBiZSBIVFRQUyk=')
 
             }]).then(function () {
 
@@ -366,7 +366,7 @@ function meProfile(){
 
                             label:"Me",
 
-                            uri:"line://app/1602687308-GXq4Vvk9?type=profile"
+                            uri:"line://app/1622994857-RVVG4lZg?type=profile"
 
                         }
 
